@@ -11,7 +11,7 @@ This includes:
 
 - mzData
 - mzML
-- mzXML
+- mzXML:10.1586/14789450.2.6.839 (https://doi.org/10.1586/14789450.2.6.839)
 
 ## Installation
 
