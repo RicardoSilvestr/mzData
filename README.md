@@ -9,8 +9,8 @@ Read and explore xml files used to encode mass spectra.
 
 This includes:
 
-- mzData
-- mzML
+- mzData: https://doi.org/10.25504/FAIRsharing.yfc7pa
+- mzML: https://doi.org/10.1007/978-1-60761-444-9_22
 - mzXML: https://doi.org/10.1586/14789450.2.6.839
 
 ## Installation
